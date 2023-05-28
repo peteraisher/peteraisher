@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peteraisher
 - 👀 I’m interested in algorithm design, network analysis, optimisation, graph data structures, simulation techniques
-- 🌱 I’m currently deepening my knowledge of c++
+- 🌱 I’m currently deepening my knowledge of Java
 - 💞️ I’m looking to collaborate on projects which make a positive and sustainable impact on the world
 
 <!---
